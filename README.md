@@ -1,1 +1,1 @@
-# Disaster_Prediction_Modell
+# Disaster_Prediction_Model
