@@ -1,5 +1,3 @@
-Here's the full project documentation with your Streamlit deployment included:
-
 # Disaster Prediction Model using Hugging Face Transformers and NLP Techniques
 
 ## Project Overview
