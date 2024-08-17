@@ -220,6 +220,12 @@ This project successfully demonstrates the application of Hugging Face Transform
 - [Kaggle Dataset: Disaster Tweets](https://www.kaggle.com/datasets/harshithvarma007/disaster-tweets)
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 
+## **Streamlit Deployment**
+
+### **I. Application Interface**
+
+The application is deployed using Streamlit, providing an interactive interface where users can input tweets and receive predictions on the type of disaster mentioned in the tweet.
+
 ### **II. Running the Application**
 
 To run the Streamlit application, use the following command in your terminal:
