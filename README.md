@@ -1,5 +1,3 @@
-Here's the full project documentation with your Streamlit deployment included:
-
 # Disaster Prediction Model using Hugging Face Transformers and NLP Techniques
 
 ## Project Overview
@@ -235,3 +233,7 @@ streamlit run app.py
 ```
 
 This command will start a local server where you can interact with the disaster tweet classification model through a user-friendly interface.
+
+### **III. Examples**
+<img width="841" alt="disaster1" src="https://github.com/user-attachments/assets/85a84262-328c-4687-8a12-26c38de16e08">
+<img width="532" alt="disaster2" src="https://github.com/user-attachments/assets/1654916b-b6bd-49b5-9ce4-5152340b4c2e">
